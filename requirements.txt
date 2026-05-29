@@ -1,9 +1,6 @@
-tensorflow
-keras
-opencv-python
-mediapipe
-numpy
-pandas
-matplotlib
 flask
 flask-cors
+opencv-python-headless
+tensorflow
+numpy
+gunicorn
